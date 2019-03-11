@@ -3,7 +3,7 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Write a description of class Mushroom here.
  * 
- * @author Mehul Tailang 
+ * @author Arnav Kartikeya
  * @version 1.0
  */
 public class Mushroom extends Actor
